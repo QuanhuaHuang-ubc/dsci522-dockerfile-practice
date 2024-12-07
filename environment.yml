@@ -1,0 +1,8 @@
+name: myenv2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.1
+  - pandas=2.2
+  - mamba=1.5.11
